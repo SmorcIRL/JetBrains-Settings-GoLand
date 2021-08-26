@@ -21,6 +21,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Git.Commit.Stage" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
@@ -36,4 +40,5 @@
   <action id="SilentCodeCleanup">
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="SmartTypeCompletion" />
 </keymap>
