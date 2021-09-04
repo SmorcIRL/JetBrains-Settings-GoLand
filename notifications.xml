@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Go tools integration notifications" displayType="NONE" shouldLog="false" />
     <notification groupId="Inspection Results" displayType="NONE" shouldLog="false" />
   </component>
 </application>
