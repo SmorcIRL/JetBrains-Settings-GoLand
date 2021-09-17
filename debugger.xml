@@ -8,6 +8,11 @@
           <custom-object-presentation />
         </configuration>
       </debugger>
+      <debugger id="Rust">
+        <configuration>
+          <option name="lldbPath" value="C:\Users\User\AppData\Local\JetBrains\GoLand2021.2\intellij-rust\lldb" />
+        </configuration>
+      </debugger>
     </debuggers>
   </component>
 </application>
